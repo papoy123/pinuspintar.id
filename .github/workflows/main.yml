@@ -7,9 +7,9 @@ on:
     branches: [ "main" ]
 
 env:
-  REGISTRY: ghcr.io/YOUR_USERNAME/YOUR_REPO
+  REGISTRY: ghcr.io/papoy123/pinuspintar.id
   GH_REGISTRY: ghcr.io
-  IMAGE_NAME: your-app-name
+  IMAGE_NAME: pinuspintar
   DOCKER_BUILDKIT: 1
 
 jobs:
